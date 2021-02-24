@@ -1,6 +1,13 @@
 body {
     margin: 0;
+    text-align: center;
     padding-top: 800px;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: aqua;  
 }
 
 .profile {
